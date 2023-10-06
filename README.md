@@ -11,7 +11,8 @@ managing and mitigating climate-related equity risks. We achieved a grade of
 A (ECTS).
 
 
-You can read our thesis by accessing the following link:
+You can read our thesis by accessing the following link: [MSc Oecon, The Pricing of Climate-Related Risk Perception](https://github.com/ismand95/MScThesis-The_Pricing_of_Climate-Related_Risk_Perception/files/12828453/Master_Thesis.pdf)
+
 
 ## Authors
 
