@@ -1,4 +1,4 @@
-# The Pricing of Climate-Related Risk Perception
+# MSc Oecon, The Pricing of Climate-Related Risk Perception
 
 Repository containing the code that generated the results for our MSc Thesis in
 Economics at Aarhus University. Our thesis aimed to quantify and understand the
